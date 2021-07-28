@@ -1,0 +1,6 @@
+﻿  Chapter 6.cpp
+C:\Code\cpp_principles_practice\source\repos\Chapter 6\Chapter 6.cpp(120,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Code\cpp_principles_practice\source\repos\Chapter 6\Chapter 6.cpp(126,20): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Code\cpp_principles_practice\source\repos\Chapter 6\Chapter 6.cpp(76): warning C4715: 'Token_stream::get': not all control paths return a value
+C:\Code\cpp_principles_practice\source\repos\Chapter 6\Chapter 6.cpp(107): warning C4715: 'primary': not all control paths return a value
+  Chapter 6.vcxproj -> C:\Code\cpp_principles_practice\source\repos\HelloWorld\Debug\Chapter 6.exe
